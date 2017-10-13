@@ -33,7 +33,7 @@ int buzzer = 12;
         delay(tempo / 2);
       }
   }
-/********************************************************/
+/*******************************************************/
 /*This is for HC-SHR4 module ultrasonido*/
 long distancia, tiempo;
 int trig=2,echo=5;
