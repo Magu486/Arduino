@@ -29,7 +29,7 @@ void loop()
   tiempo=pulseIn(echo, HIGH);
   distancia= int(0.017*tiempo);/*Distancia en cm*/
   if(distancia<50){ //Si la distancia es menor a 50cm
-    myDFPlayer.play(9);//Reproduce 0009.mp3
+    myDFPlayer.play(1);//Reproduce 0001.mp3
     delay(15000);//Reproduce 0009.mp3 hasta los 15 segundos
   }else{ //Si la distancia es mayor a 50cm
     myDFPlayer.pause();
