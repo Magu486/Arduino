@@ -1,7 +1,0 @@
-*******MP3*******
-0001.mp3  : Gemidos
-0002.mp3  : Anonymous
-0003.mp3  : Bruja Maligna
-0004.mp3  : Mounstruo
-*******
-
